@@ -1,0 +1,41 @@
+{
+  "folds": [
+    {
+      "fold": 0,
+      "best_val_dice": 0.9517563581466675,
+      "best_val_loss": 0.6626678109169006,
+      "checkpoint": "checkpoints_kfold\\fold0_best.pth",
+      "variant": "raw"
+    },
+    {
+      "fold": 1,
+      "best_val_dice": 0.9596324414014816,
+      "best_val_loss": 0.6838415712118149,
+      "checkpoint": "checkpoints_kfold\\fold1_best.pth",
+      "variant": "raw"
+    },
+    {
+      "fold": 2,
+      "best_val_dice": 0.9558929949998856,
+      "best_val_loss": 0.651472195982933,
+      "checkpoint": "checkpoints_kfold\\fold2_best.pth",
+      "variant": "raw"
+    },
+    {
+      "fold": 3,
+      "best_val_dice": 0.9590175598859787,
+      "best_val_loss": 0.9461757838726044,
+      "checkpoint": "checkpoints_kfold\\fold3_best.pth",
+      "variant": "raw"
+    },
+    {
+      "fold": 4,
+      "best_val_dice": 0.9572243988513947,
+      "best_val_loss": 0.568110391497612,
+      "checkpoint": "checkpoints_kfold\\fold4_best.pth",
+      "variant": "raw"
+    }
+  ],
+  "mean_dice": 0.9567047506570816,
+  "std_dice": 0.002804853990997832
+}
